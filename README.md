@@ -1,7 +1,7 @@
 # The HiQP Demos package 
 Copyright (C) 2016-2017 Marcus A. Johansson
 
-<i>This is a snapshot of the HiQP source code as of after having finished my M.Sc. thesis. It is kept here as a showcase of my final M.Sc. work. For the real HiQP source code, please checkout the OrebroUniversity at GitHub.</i>
+<i>This is a snapshot of the HiQP source code as of after having finished my M.Sc. thesis. It is kept here as a showcase of my final M.Sc. work. For the real HiQP source code, please checkout the OrebroUniversity profile at GitHub.</i>
 
 The package is showcasing the use of the HiQP control framework, see [3], with the ABB YuMi robot in simulation via a collection of shellscripts. Dependencies include the hiqp packages (git@github.com:OrebroUniversity/hiqp.git), as well as the yumi_description package (git@github.com:OrebroUniversity/yumi.git) which is also available from APT. Early videos showing HiQP used for autonomous grasping and assisted teleoperation respectively can be found at: https://www.dropbox.com/s/2z4v4dn2u7w7sm0/yumi_autograsp.mp4?dl=0, https://www.dropbox.com/s/vmlgjishsw1d0v4/yumi_teleop.mp4?dl=0.
 
